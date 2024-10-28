@@ -29,8 +29,8 @@
     - title: Minor in Chemistry
       institution: University of Colorado Boulder, Boulder, CO, USA
       year: 2020 - 2025
-      - Topics in Inorganic chemistry, Physical Chemistry 1 and 2 ...
-    
+      description:
+        - Topics in Inorganic Chemistry, Physical Chemistry 1 and 2
 
 - title: Experience
   type: time_table
@@ -61,16 +61,30 @@
       year: 2023
       description:
         - Simulated distillation processes in Aspen Hysys, conducted reactor and equipment design.
+    - title: Tirzepatide Manufacturing Design Project
+      institution: University of Colorado Boulder, Boulder, CO, USA
+      year: December 2023
+      description:
+        - Collaborated with team members Logan Harris, Hayden Gunther, and Nathan Siles on a comprehensive design for Tirzepatide manufacturing.
+        - Developed detailed process descriptions, flow diagrams, material balances, and economic analysis.
+        - Created simulations using Aspen Plus, including specifications for PFRs, distillation columns, heat exchangers, pumps, filters, valves, and tanks.
+        - Performed capital, variable, and fixed cost analysis, as well as profitability and sensitivity evaluations.
     - title: Assembly Language Analyst
       institution: Bomb Lab, Boulder, CO, USA
       year: November 2023
       description:
         - Analyzed and disassembled code, utilizing C language for assembly-level program analysis.
+    - title: Student Assistant (Course Assistant)
+      institution: University of Colorado Boulder, Department of Chemical and Biological Engineering
+      year: August 2024 - Present
+      description:
+        - Assisting in CHEN 4520 under the guidance of Teaching Professor Wendy Young.
+        - Supporting students in engaging with advanced chemical engineering concepts and providing course-related assistance.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://dafo2334.github.io>Portfolio Website</a>
+    - title: <a href="https://dafo2334.github.io">Portfolio Website</a>
       year: 2024
       description: Professional portfolio and personal website built with GitHub Pages.
 
@@ -81,6 +95,12 @@
       items:
         - National Champion, Mexican Handball (Sub-17)
         - Central American Games Winner, Mexico (Sub-17)
+    - year: 2020
+      items:
+        - Graduated with ABITUR certification, scoring 1.7
+        - C2 Proficiency in German, Spanish, and English
+        - Cambridge English Proficiency Certification
+        - Black Belt in Taekwondo
 
 - title: Academic Interests
   type: nested_list
