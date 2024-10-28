@@ -26,11 +26,13 @@
     - title: Minor in Mathematics
       institution: University of Colorado Boulder, Boulder, CO, USA
       year: 2020 - 2025
+      description:
+        - Courses: Calculus 1-3, Differential Equations, Linear Algebra, Discrete Math, Applied Data Analysis, Numerical Computation
     - title: Minor in Chemistry
       institution: University of Colorado Boulder, Boulder, CO, USA
       year: 2020 - 2025
       description:
-        - Topics in Inorganic Chemistry, Physical Chemistry 1 and 2
+        - Courses: Organic Chemistry 1 and 2, Physical Chemistry 1 and 2, Inorganic Chemistry, General Chemistry for Engineers, including all associated laboratory courses
 
 - title: Experience
   type: time_table
@@ -65,7 +67,7 @@
       institution: University of Colorado Boulder, Boulder, CO, USA
       year: December 2023
       description:
-        - Collaborated with team members Logan Harris, Hayden Gunther, and Nathan Siles on a comprehensive design for Tirzepatide manufacturing.
+        - Collaborated with team members on a comprehensive design for Tirzepatide manufacturing.
         - Developed detailed process descriptions, flow diagrams, material balances, and economic analysis.
         - Created simulations using Aspen Plus, including specifications for PFRs, distillation columns, heat exchangers, pumps, filters, valves, and tanks.
         - Performed capital, variable, and fixed cost analysis, as well as profitability and sensitivity evaluations.
