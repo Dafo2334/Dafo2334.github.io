@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "EKL Sushi-Itto Corporate",
+      "name": "EL Sushi-Itto Corporate",
       "position": "Intern - Architectural Engineering and HR Support",
       "location": "Mexico City, Mexico",
       "startDate": "2018-07-01",
@@ -73,11 +73,11 @@
       "score": "3.8",
       "courses": [
         "Process Design",
-        "Physical Chemistry",
-        "Organic Chemistry",
-        "Inorganic Chemistry",
-        "General Chemistry for Engineers",
-        "Associated Laboratory Courses"
+        "Kinetics",
+        "Instrumentation and Process Control",
+        "Separations",
+        "Heat and Mass Transfer",
+        "Thermodynamics"
       ]
     },
     {
@@ -159,6 +159,46 @@
         "Built with GitHub Pages",
         "Responsive, professional design optimized for employer engagement."
       ]
+    },
+    {
+      "name": "Dissolution Plant Optimization",
+      "summary": "Designed and optimized a distillation column for a beverage production process using Aspen Hysys, focusing on achieving compositional standards and integrating recycle streams.",
+      "highlights": [
+        "Developed distillation models to improve process efficiency.",
+        "Incorporated recycle streams to meet desired product compositions."
+      ],
+      "startDate": "2023-03-01",
+      "endDate": "2023-05-01"
+    },
+    {
+      "name": "Tequila Distillation Plant Design",
+      "summary": "Engineered a tequila distillation plant, performing comprehensive reactor, pump, and heat exchanger design, and implemented an Aspen Hysys simulation for optimal composition of organic compounds.",
+      "highlights": [
+        "Created equipment design specifications for distillation and heat exchange.",
+        "Achieved desired organic compound composition in product streams."
+      ],
+      "startDate": "2023-06-01",
+      "endDate": "2023-07-01"
+    },
+    {
+      "name": "WORLDWIDECONVERTER",
+      "summary": "Developed a live currency converter application featuring user data storage, graphical data representations, and relevant news updates for searched currencies.",
+      "highlights": [
+        "Built a full-stack application to convert currency values in real-time.",
+        "Integrated graphical representations and a news display feature."
+      ],
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-31"
+    },
+    {
+      "name": "Case Study - Theoretical Phone Company Database",
+      "summary": "Engineered a comprehensive SQL database for a theoretical phone company, defining relationships and optimizing operations for scalability and efficiency.",
+      "highlights": [
+        "Created data structures and relationships for customer and product management.",
+        "Optimized database for efficient retrieval and scalability."
+      ],
+      "startDate": "2023-09-01",
+      "endDate": "2023-09-30"
     }
   ],
   "awards": [
