@@ -10,7 +10,7 @@ email: Danielfolino01@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-   CV Chemical engineer and Computer science
+  Daniel Folino CV Chemical engineer and Computer science
 keywords: Chemical Enginner, Computer science , CV, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -112,7 +112,6 @@ zotero_username: # your zotero username
 
 contact_note: >
   Im always avaliable through whatsapp.
-
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -179,7 +178,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 newsletter:
-  enabled: true
+  enabled: false
   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
