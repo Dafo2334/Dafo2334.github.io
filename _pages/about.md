@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>.Boulder Co, +1 720 757 7629
+subtitle: Undergraduate 2025. Boulder Co, +1 720 757 7629
 
 profile:
   align: right
@@ -18,9 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I’m Daniel Folino, a dual major in Chemical Engineering and Computer Science at the University of Colorado Boulder, graduating in May 2025. Growing up in Mexico and attending a German international school, I had a unique multicultural education that sparked my interest in both engineering and computing. I’m fluent in English, German, Spanish, and Dutch, and bring a global perspective to my work.
+Hi, I’m Daniel Folino! 👋
 
-My journey includes a diverse range of experiences—from shadowing healthcare professionals at Hospital Angeles in Mexico to developing game projects and databases. I’ve also taken on process engineering challenges, like designing distillation columns and creating efficient plant simulations using tools like Aspen Hysys and Aspen Plus. Outside of academics, I represented Mexico as a national handball champion in 2015 and was part of the team that won the Central American Games with the U-17 squad.
+I'm a dual major in Chemical Engineering and Computer Science with minors in Mathematics and Chemistry at the University of Colorado Boulder, graduating in May 2025. Growing up in Mexico and attending a German international school gave me a unique multicultural foundation, sparking my passion for both engineering and computing. Fluent in English, German, Spanish, and Dutch, I bring a global perspective to every project I tackle.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danielfolinohaendler/).
+My technical expertise spans process engineering, software development, and data science. I’ve tackled complex challenges like designing distillation columns and simulating plant processes using Aspen Hysys and Aspen Plus. In computing, I’ve delved into game development and database systems, with hands-on experience in RISC-V processor modeling and creating embedded systems. My minors in Math and Chemistry further enhance my analytical and problem-solving capabilities, complementing my engineering and computer science studies.
 
+I’m particularly interested in networking and data science and have developed projects like a UDP client-server and explored data analysis in real-world applications. These experiences have strengthened my ability to solve complex problems through innovative, practical solutions.
+
+Outside of academics, I represented Mexico as a national handball champion in 2015 and was part of the U-17 team that won the Central American Games. Sports taught me the value of resilience, teamwork, and determination—qualities I bring to every endeavor, academic or professional.
+
+Though I’m still building formal industry experience, I’ve been proactive in preparing for my career through leadership roles, hands-on projects, and academic challenges. With a multidisciplinary knowledge base, a global outlook, and a passion for problem-solving, I’m ready to tackle real-world challenges with enthusiasm and dedication.
