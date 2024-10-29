@@ -18,6 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<div style="text-align: justify;">
 Hi, I’m Daniel Folino! 👋
 
 I'm a dual major in Chemical Engineering and Computer Science with minors in Mathematics and Chemistry at the University of Colorado Boulder, graduating in May 2025. Growing up in Mexico and attending a German international school gave me a unique multicultural foundation, sparking my passion for both engineering and computing. Fluent in English, German, Spanish, and Dutch, I bring a global perspective to every project I tackle.
@@ -29,3 +30,4 @@ I’m particularly interested in networking and data science and have developed 
 Outside of academics, I represented Mexico as a national handball champion in 2015 and was part of the U-17 team that won the Central American Games. Sports taught me the value of resilience, teamwork, and determination—qualities I bring to every endeavor, academic or professional.
 
 Though I’m still building formal industry experience, I’ve been proactive in preparing for my career through leadership roles, hands-on projects, and academic challenges. With a multidisciplinary knowledge base, a global outlook, and a passion for problem-solving, I’m ready to tackle real-world challenges with enthusiasm and dedication.
+</div>
