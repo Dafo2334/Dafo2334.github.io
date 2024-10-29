@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dafo2334
+  - 
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - CU-CSCI3308-Spring2924/Recitation-014-Team-02
+  - cu-csci-2400-fa-2023/lab3-attacklab-Dafo2334
+  - Dafo2334/ObjectOrientedGameCPP
+  - Dafo2334/3155finalProject
