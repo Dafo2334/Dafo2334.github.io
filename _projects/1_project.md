@@ -28,7 +28,7 @@ The conversion tool is designed to simplify currency exchange, while the trends 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CProfile.png" title="Full Page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/assets/img/CurrencyConverter.jpeg" title="Full Page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -46,19 +46,26 @@ You can also put regular text between your rows of images. Each feature has been
     Future updates will include multi-language support and an interactive map for better user connectivity.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Development Approach and Technologies Used
 
-{% raw %}
+The development of WorldWideWallet embraced Agile methodology to promote iterative progress and flexibility. By using Agile practices, the team could adapt to changes quickly and prioritize features that deliver the most value to users.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/FutureFeatures.jpg" title="Future Features: Multi-language and Interactive Map" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Agile Methodology: Implemented sprints and regular stand-up meetings to foster collaboration and continuous improvement.
+User Stories: Crafted detailed user stories to capture requirements from the user's perspective, ensuring the application meets real-world needs.
+Front-End Technologies:
 
-{% endraw %}
+Bootstrap: Utilized for its responsive design capabilities and pre-built components, enabling a consistent look and feel across devices.
+HTML & CSS: Structured and styled the web pages, creating a clean and intuitive user interface.
+JavaScript: Added interactivity and dynamic content to enhance user engagement.
+Back-End Technologies:
+
+Flask: A Python web framework used to handle server-side logic, routing, and API integration.
+PostgreSQL: Employed as the database system to store user data, currency rates, and historical information securely and efficiently.
+Key Features Implemented with These Technologies:
+
+Conversion Tool: Developed using JavaScript for real-time calculations and Flask for fetching up-to-date exchange rates.
+Currency Trends and History: Implemented charts and graphs using JavaScript libraries to visualize data pulled from PostgreSQL.
+News Page: Integrated third-party APIs via Flask to display the latest financial news relevant to users.
+Profile Page: Created personalized user experiences by storing preferences and history in PostgreSQL, rendered dynamically with Flask.
+By combining these technologies with Agile practices, WorldWideWallet delivers a robust, scalable, and user-centric application designed to meet the evolving needs of travelers and currency exchange users.
+
