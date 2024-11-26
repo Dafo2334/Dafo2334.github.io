@@ -28,7 +28,7 @@ The conversion tool is designed to simplify currency exchange, while the trends 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CProfile.jpg" title="User Profile Page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CProfile.png" title="Full Page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -39,7 +39,7 @@ You can also put regular text between your rows of images. Each feature has been
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/FutureFeatures.jpg" title="Future Features: Multi-language and Interactive Map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/DatabaseNews.png" title="Future Features: Multi-language and Interactive Map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
