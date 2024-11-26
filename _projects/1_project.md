@@ -14,7 +14,7 @@ WorldWideWallet is a currency converter app designed for travelers and frequent 
         {% include figure.liquid loading="eager" path="assets/img/ConverterPage.png" title="Conversion Tool" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CurrencyConverter.jpeg" title="Currency Trends and History" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DatabaseNews.png.jpeg" title="Currency Trends and History" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/NewsPage.png" title="News Page" class="img-fluid rounded z-depth-1" %}
@@ -39,7 +39,7 @@ You can also put regular text between your rows of images. Each feature has been
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/DatabaseNews.png" title="Future Features: Multi-language and Interactive Map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ArchitechtureNews.png" title="Future Features: Multi-language and Interactive Map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
