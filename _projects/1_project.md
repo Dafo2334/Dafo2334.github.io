@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Currency Converter
-description: WorldWideWallet is a currency converter app designed for travelers and frequent users of currency exchange. 
-img: assets/img/CProfile.jpg
+description: WorldWideWallet is a currency converter app designed for travelers and frequent users of currency exchange.
+img: assets/img/CProfile.png
 importance: 1
 category: work
 ---
@@ -11,10 +11,10 @@ WorldWideWallet is a currency converter app designed for travelers and frequent 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ConveerterPage.png" title="Conversion Tool" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ConverterPage.png" title="Conversion Tool" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CurrencyConverter.png" title="Currency Trends and History" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CurrencyConverter.jpeg" title="Currency Trends and History" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/NewsPage.png" title="News Page" class="img-fluid rounded z-depth-1" %}
@@ -56,10 +56,7 @@ Here's the code for the last row of images above:
 ```html
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/FutureFeatures.jpg" title="Future Features: Multi-language and Interactive Map" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 ```
