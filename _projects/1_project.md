@@ -3,8 +3,7 @@ layout: page
 title: Currency Converter
 description: WorldWideWallet is a currency converter app designed for travelers and frequent users of currency exchange. 
 img: assets/img/CProfile.jpg
-redirect: https://www.linkedin.com/feed/update/urn:li:activity:7199243483491045377/
-importance: 2
+importance: 1
 category: work
 ---
 
