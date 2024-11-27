@@ -2,7 +2,7 @@
 layout: page
 title: National Handball Champion
 description: Highlighting my journey as a national handball player, including international competitions and major victories.
-img: assets/img/Handball.avif
+img: assets/img/Handball.JPEG
 importance: 1
 category: fun
 ---
@@ -14,7 +14,7 @@ Outside of academics, my journey as a national handball player has been a defini
         {% include figure.liquid loading="eager" path="assets/img/Sweden.jpg" title="Competing in Swden" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Sweden1.jpgh" title="International Experience in Sweden" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Sweden1.jpg" title="International Experience in Sweden" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
