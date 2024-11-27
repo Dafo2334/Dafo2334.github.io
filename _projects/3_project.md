@@ -2,7 +2,7 @@
 layout: page
 title: Tirzepatide Manufacturing Design
 description: A comprehensive manufacturing design project for Tirzepatide production, focusing on environmental, safety, and economic considerations.
-img: assets/img/Project3.jpeg
+img: assets/img/Project3.jpg
 importance: 3
 category: work
 ---

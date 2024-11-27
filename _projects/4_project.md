@@ -11,10 +11,10 @@ Outside of academics, my journey as a national handball player has been a defini
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ColombiaTournament.png" title="Competing in Colombia" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Sweden.jpg" title="Competing in Swden" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SwedenTournament.png" title="International Experience in Sweden" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Sweden1.jpgh" title="International Experience in Sweden" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -25,10 +25,10 @@ One of my proudest achievements was winning the **Central American Games for U-1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CentralAmericanGames.png" title="Central American Games Victory (2017)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Denmark.jpg" title="Central American Games Victory (2017)" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/NationalChampion.png" title="National Championship Moments" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/NationalTeam.jpg" title="National Championship Moments" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -40,15 +40,6 @@ One of my proudest achievements was winning the **Central American Games for U-1
 - **Resilience:** Overcoming challenges on and off the court has built mental and physical toughness.
 - **Teamwork:** Collaborating with teammates toward a shared goal has taught me the value of trust and communication.
 - **Determination:** Pushing myself to excel during training and competitions has reinforced my commitment to achieving excellence.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/TeamCelebration.png" title="Teamwork and Resilience" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Handball taught me resilience, teamwork, and determination—qualities I bring to every endeavor.
-</div>
 
 **Impact Beyond Sports:**
 My experiences as a handball player have shaped my approach to academics and professional pursuits. The lessons I learned in resilience and teamwork translate into effective collaboration and determination in every aspect of my life.
