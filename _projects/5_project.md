@@ -98,4 +98,3 @@ This project merges low-level hardware control (encoders), mid-level logic (7-se
 - Combine with other inputs (e.g., temperature sensors) to display measured values.
 
 By expanding on these foundations, even more sophisticated FPGA-based HMI (Human-Machine Interface) solutions can be created, paving the way for innovative control panels and embedded display systems.
-```
