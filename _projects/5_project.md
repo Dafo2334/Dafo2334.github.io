@@ -40,7 +40,7 @@ The **7-Segment Digit Display via HDMI** project demonstrates how to use FPGA lo
         {% include figure.liquid loading="eager" path="assets/img/VGATiming.png" title="VGA Timing Generation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/7SegmentOnScreen.png" title="7-Segment Digit On-Screen" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/7SEG_DISP.png" title="7-Segment Digit On-Screen" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -74,7 +74,7 @@ The **7-Segment Digit Display via HDMI** project demonstrates how to use FPGA lo
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/FPGASetup.png" title="FPGA Setup with HDMI Monitor" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/IMPL.png" title="FPGA Setup with HDMI Monitor" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
