@@ -89,13 +89,6 @@
         - Reviewed AI-generated code and responses for accuracy, safety, relevance, and functionality.
         - Provided quality assessments and ratings to ensure the reliability of AI-assisted solutions.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://dafo2334.github.io">Portfolio Website</a>
-      year: 2024
-      description: Professional portfolio and personal website built with GitHub Pages.
-
 - title: Honors and Awards
   type: time_table
   contents:
@@ -124,13 +117,11 @@
     - title: Digital Logic and Embedded Systems
       items:
         - Proficient in Verilog, Boolean simplification, and digital circuit design.
-
-- title: Skills
-  type: list
-  contents:
-    - Python (75+ LeetCode problems solved)
-    - HTML, CSS, Bootstrap, Handlebars
-    - Node.js, RESTful API design
+    - title: Software Engineering and Programming
+      items:
+        - Python (75+ LeetCode problems solved)
+        - HTML, CSS, Bootstrap, Handlebars
+        - Node.js and API development
 
 - title: Other Interests
   type: list
