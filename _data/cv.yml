@@ -63,14 +63,14 @@
       year: 2023
       description:
         - Simulated distillation processes in Aspen Hysys, conducted reactor and equipment design.
-    - title: Tirzepatide Manufacturing Design Project
+    - title: 7-Segment Digit Display via HDMI Project
       institution: University of Colorado Boulder, Boulder, CO, USA
       year: December 2023
       description:
-        - Collaborated with team members on a comprehensive design for Tirzepatide manufacturing.
-        - Developed detailed process descriptions, flow diagrams, material balances, and economic analysis.
-        - Created simulations using Aspen Plus, including specifications for PFRs, distillation columns, heat exchangers, pumps, filters, valves, and tanks.
-        - Performed capital, variable, and fixed cost analysis, as well as profitability and sensitivity evaluations.
+        - Developed a hardware design on an FPGA to convert quadrature encoder inputs into a large, pixel-based 7-segment digit displayed on an HDMI monitor.
+        - Implemented quadrature decoding in Verilog, integrated VGA timing generation, and utilized HDMI IP cores.
+        - Created real-time pixel rendering logic, enabling immediate visual feedback as the encoder rotates.
+        - Demonstrated proficiency in digital logic, embedded systems, and video signal generation.
     - title: Assembly Language Analyst
       institution: Bomb Lab, Boulder, CO, USA
       year: November 2023
@@ -82,6 +82,12 @@
       description:
         - Assisting in CHEN 4520 under the guidance of Teaching Professor Wendy Young.
         - Supporting students in engaging with advanced chemical engineering concepts and providing course-related assistance.
+    - title: AI Prompt Code Reviewer (Freelance)
+      institution: Outlier AI (Remote)
+      year: August 2023 - November 2023
+      description:
+        - Reviewed AI-generated code and responses for accuracy, safety, relevance, and functionality.
+        - Provided quality assessments and ratings to ensure the reliability of AI-assisted solutions.
 
 - title: Open Source Projects
   type: time_table
@@ -118,6 +124,13 @@
     - title: Digital Logic and Embedded Systems
       items:
         - Proficient in Verilog, Boolean simplification, and digital circuit design.
+
+- title: Skills
+  type: list
+  contents:
+    - Python (75+ LeetCode problems solved)
+    - HTML, CSS, Bootstrap, Handlebars
+    - Node.js, RESTful API design
 
 - title: Other Interests
   type: list
