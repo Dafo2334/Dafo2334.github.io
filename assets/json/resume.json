@@ -24,6 +24,78 @@
   },
   "work": [
     {
+      "name": "Hospital Angeles",
+      "position": "General Intern",
+      "location": "Mexico City, Mexico",
+      "startDate": "2019-05-01",
+      "endDate": "2019-06-01",
+      "summary": "Interned in a healthcare environment, shadowing medical staff and contributing to efficient patient record management.",
+      "highlights": [
+        "Documented patient histories to ensure accurate and accessible medical records.",
+        "Observed healthcare operations, gaining insights into clinical workflows and patient care protocols."
+      ]
+    },
+    {
+      "name": "Interstellar X",
+      "position": "Game Developer",
+      "location": "Boulder, CO, USA",
+      "startDate": "2021-02-01",
+      "endDate": "2021-02-28",
+      "summary": "Developed an exploratory game in C++ featuring interplanetary travel and challenges.",
+      "highlights": [
+        "Created game logic in C++ for an immersive travel and exploration experience.",
+        "Implemented gameplay mechanics and 2D/3D rendering functions."
+      ]
+    },
+    {
+      "name": "MovieSeekers",
+      "position": "Database Developer",
+      "location": "Boulder, CO, USA",
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-30",
+      "summary": "Built a database for efficient data retrieval using C and C++ structures.",
+      "highlights": [
+        "Implemented skip lists and hash tables to optimize query performance.",
+        "Improved data indexing and storage for scalable data handling."
+      ]
+    },
+    {
+      "name": "Dissolution Plant",
+      "position": "Process Engineer",
+      "location": "Boulder, CO, USA",
+      "startDate": "2023-03-01",
+      "endDate": "2023-05-01",
+      "summary": "Designed distillation columns and integrated recycle streams to optimize production processes.",
+      "highlights": [
+        "Developed process models and enhanced system efficiency.",
+        "Achieved target purity and yield through strategic process modifications."
+      ]
+    },
+    {
+      "name": "Tequila Distillation Plant",
+      "position": "Process Engineer",
+      "location": "Boulder, CO, USA",
+      "startDate": "2023-06-01",
+      "endDate": "2023-07-01",
+      "summary": "Conducted reactor and equipment design in Aspen Hysys for tequila distillation processes.",
+      "highlights": [
+        "Simulated distillation columns to obtain desired organic compound composition.",
+        "Specified pumps, heat exchangers, and reactors for efficient production."
+      ]
+    },
+    {
+      "name": "Bomb Lab",
+      "position": "Assembly Language Analyst",
+      "location": "Boulder, CO, USA",
+      "startDate": "2023-11-01",
+      "endDate": "2023-11-30",
+      "summary": "Analyzed and disassembled assembly-level code, applying C language knowledge for program analysis.",
+      "highlights": [
+        "Utilized disassembly tools to understand binary instructions.",
+        "Identified logic flows and potential vulnerabilities."
+      ]
+    },
+    {
       "name": "University of Colorado Boulder",
       "position": "Student Assistant (Course Assistant)",
       "url": "https://www.colorado.edu/",
@@ -36,28 +108,15 @@
       ]
     },
     {
-      "name": "EL Sushi-Itto Corporate",
-      "position": "Intern - Architectural Engineering and HR Support",
-      "location": "Mexico City, Mexico",
-      "startDate": "2018-07-01",
-      "endDate": "2018-08-01",
-      "summary": "Shadowed architectural engineers and assisted the HR department, gaining hands-on experience in corporate operations and engineering management.",
+      "name": "Outlier AI",
+      "position": "AI Prompt Code Reviewer (Freelance)",
+      "location": "Remote",
+      "startDate": "2023-08-01",
+      "endDate": "2023-11-01",
+      "summary": "Reviewed AI-generated code and responses for accuracy, safety, relevance, and functionality.",
       "highlights": [
-        "Worked closely with architectural engineers on layout and structural planning for new restaurant locations.",
-        "Supported HR team with recruitment processes, employee onboarding, and internal communications.",
-        "Enhanced workplace adaptability by balancing dual roles in engineering and HR functions."
-      ]
-    },
-    {
-      "name": "Hospital Angeles",
-      "position": "General Intern",
-      "location": "Mexico City, Mexico",
-      "startDate": "2019-05-01",
-      "endDate": "2019-06-01",
-      "summary": "Interned in a healthcare environment, shadowing medical staff and contributing to efficient patient record management.",
-      "highlights": [
-        "Documented patient histories to ensure accurate and accessible medical records.",
-        "Observed healthcare operations, gaining insights into clinical workflows and patient care protocols."
+        "Provided quality assessments and ratings to ensure reliable AI-assisted solutions.",
+        "Validated correctness and compliance of AI outputs in various coding scenarios."
       ]
     }
   ],
@@ -140,15 +199,16 @@
   ],
   "projects": [
     {
-      "name": "Tirzepatide Manufacturing Design",
-      "summary": "Comprehensive design project for Tirzepatide manufacturing in collaboration with team members, including process simulation and economic analysis.",
-      "highlights": [
-        "Developed process flow diagrams and material balances.",
-        "Conducted Aspen Plus simulations and completed cost analysis.",
-        "Provided detailed equipment specifications for PFRs, distillation columns, heat exchangers, pumps, filters, and valves."
-      ],
+      "name": "7-Segment Digit Display via HDMI Project",
+      "summary": "Designed an FPGA-based system to convert quadrature encoder inputs into a large, pixel-based 7-segment digit displayed on an HDMI monitor.",
       "startDate": "2023-12-01",
-      "endDate": "2023-12-14"
+      "endDate": "2023-12-14",
+      "highlights": [
+        "Implemented quadrature decoding in Verilog and integrated VGA timing generation.",
+        "Utilized HDMI IP cores to produce a real-time visual output.",
+        "Created pixel rendering logic for immediate feedback as the encoder rotates.",
+        "Demonstrated skills in digital logic, embedded systems, and video signal generation."
+      ]
     },
     {
       "name": "Portfolio Website",
@@ -163,42 +223,42 @@
     {
       "name": "Dissolution Plant Optimization",
       "summary": "Designed and optimized a distillation column for a beverage production process using Aspen Hysys, focusing on achieving compositional standards and integrating recycle streams.",
+      "startDate": "2023-03-01",
+      "endDate": "2023-05-01",
       "highlights": [
         "Developed distillation models to improve process efficiency.",
         "Incorporated recycle streams to meet desired product compositions."
-      ],
-      "startDate": "2023-03-01",
-      "endDate": "2023-05-01"
+      ]
     },
     {
       "name": "Tequila Distillation Plant Design",
-      "summary": "Engineered a tequila distillation plant, performing comprehensive reactor, pump, and heat exchanger design, and implemented an Aspen Hysys simulation for optimal composition of organic compounds.",
+      "summary": "Engineered a tequila distillation plant, performing comprehensive reactor, pump, and heat exchanger design, and implemented an Aspen Hysys simulation.",
+      "startDate": "2023-06-01",
+      "endDate": "2023-07-01",
       "highlights": [
         "Created equipment design specifications for distillation and heat exchange.",
         "Achieved desired organic compound composition in product streams."
-      ],
-      "startDate": "2023-06-01",
-      "endDate": "2023-07-01"
+      ]
     },
     {
       "name": "WORLDWIDECONVERTER",
-      "summary": "Developed a live currency converter application featuring user data storage, graphical data representations, and relevant news updates for searched currencies.",
+      "summary": "Developed a live currency converter application featuring user data storage, graphical data representations, and relevant news updates.",
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-31",
       "highlights": [
         "Built a full-stack application to convert currency values in real-time.",
         "Integrated graphical representations and a news display feature."
-      ],
-      "startDate": "2023-08-01",
-      "endDate": "2023-08-31"
+      ]
     },
     {
       "name": "Case Study - Theoretical Phone Company Database",
       "summary": "Engineered a comprehensive SQL database for a theoretical phone company, defining relationships and optimizing operations for scalability and efficiency.",
+      "startDate": "2023-09-01",
+      "endDate": "2023-09-30",
       "highlights": [
         "Created data structures and relationships for customer and product management.",
         "Optimized database for efficient retrieval and scalability."
-      ],
-      "startDate": "2023-09-01",
-      "endDate": "2023-09-30"
+      ]
     }
   ],
   "awards": [
@@ -228,12 +288,18 @@
       "name": "Programming",
       "level": "Advanced",
       "keywords": [
-        "Python",
+        "Python (75+ LeetCode problems solved)",
         "C++",
         "MySQL",
         "MATLAB",
         "VBA",
-        "Full Stack Development"
+        "Full Stack Development",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Handlebars",
+        "Node.js",
+        "API"
       ]
     },
     {
